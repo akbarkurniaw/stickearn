@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kirim pesan dengan contact name tidak di isi</description>
+   <name>MSG06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dac27d53-6b47-4ca4-9497-c831c9019092</testCaseGuid>
+</TestCaseEntity>
