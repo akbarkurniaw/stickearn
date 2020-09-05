@@ -28,5 +28,5 @@ def randomString = randomString(chars, 5)
 WebUI.comment ("untuk name: " + randomString)
 //WebUI.comment ("untuk code: " + randomCode)
 
-GlobalVariable.randomUsername = 'user_' + randomString
+GlobalVariable.random = 'user_' + randomString
 //GlobalVariable.randomCode = randomCode

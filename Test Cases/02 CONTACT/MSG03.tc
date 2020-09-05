@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Batal kirim pesan dengan klik tombol Cancel</description>
-   <name>MSG03</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8906f4de-9537-4371-be30-83d289b14b80</testCaseGuid>
-</TestCaseEntity>

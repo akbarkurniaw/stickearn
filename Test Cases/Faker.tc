@@ -3,6 +3,6 @@
    <description></description>
    <name>Faker</name>
    <tag></tag>
-   <comment></comment>
+   <comment>untuk name: &quot; + randomString</comment>
    <testCaseGuid>59d8ea42-f40d-44cc-a572-3b25c056aaf7</testCaseGuid>
 </TestCaseEntity>
